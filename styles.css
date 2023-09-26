@@ -1,0 +1,17 @@
+.head{
+      text-align: center;
+}
+.div{
+    text-align: right;
+    font-family: 'caveat', cursive;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+.sub{
+    text-align: center;
+}
+.ps{
+    text-align: right;
+    text-decoration: wavy
+}
+  
